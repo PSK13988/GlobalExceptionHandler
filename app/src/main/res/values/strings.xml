@@ -2,4 +2,5 @@
     <string name="app_name">GlobalExceptionHandler</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_auth">AuthActivity</string>
+    <string name="str_please_find_mylog_log_file_in_sdcard_to_view_the_crash_logs">Please find <b> mylog.log </b> file in sdcard to view the crash logs</string>
 </resources>

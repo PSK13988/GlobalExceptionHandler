@@ -24,7 +24,7 @@ public class AuthActivity extends BaseActivity {
 //        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
 //        setSupportActionBar(toolbar);
 
-        File filename = new File(Environment.getExternalStorageDirectory() + "/mylog.txt");
+        File filename = new File(Environment.getExternalStorageDirectory() + "/mylog.log");
         try {
             filename.createNewFile();
             Log.d(TAG, "run: file created");
